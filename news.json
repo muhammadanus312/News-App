@@ -1,0 +1,89 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": { "id": "la-gaceta", "name": "La Gaceta" },
+      "author": "La Gaceta",
+      "title": "Talleres recibe a Colón por los octavos de final de la Libertadores",
+      "description": "El partido se juega desde las 19.15. Transmite Fox Sports.",
+      "url": "https://www.lagaceta.com.ar/nota/950205/deportes/talleres-recibe-colon-octavos-final-libertadores.html",
+      "urlToImage": "https://img.lagaceta.com.ar/fotos/notas/2022/04/22/la-estrella-simoqueno-luis-pulguita-rodriguez-as-dentro-equipo-colon-940171-114959.jpg",
+      "publishedAt": "2022-06-29T22:22:20.7154912Z",
+      "content": "Talleres de Córdoba y Colón de Santa Fe se enfrentan en el estadio Mario Alberto Kempes, que cuenta con la presencia de las dos parcialidades, en el partido de ida por la serie de octavos de final de… [+21 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "FOX Sports",
+      "title": "USFL Championship Game odds: Best bet for Stars-Stallions title game",
+      "description": "Read FOX Sports betting analyst Sammy Panayotovich's best bet for this weekend's USFL Championship game between the Stars and Stallions.",
+      "url": "http://www.foxsports.com/stories/usfl/usfl-championship-game-odds-best-bet-for-stars-stallions-title-game",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/1408/814/06.29.22_USFL-Sammy-Best-Bet_stallion-and-stars_16x9-1.jpg?ve=1&tl=1",
+      "publishedAt": "2022-06-29T21:14:40Z",
+      "content": "By Sam Panayotovich\r\nFOX Sports Betting Analyst\r\nWere all set for the inaugural USFL Championship Game this Sunday at Tom Benson Hall of Fame Stadium in Canton, Ohio. The title game will air live on … [+3181 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": null,
+      "title": "Washington Wizards star Bradley Beal declines $36.4 million player option, agent says",
+      "description": "Bradley Beal has declined his $36.4 million player option for the 2022-23 NBA season, his agent Mark Bartelstein of Priority Sports told ESPN's Adrian Wojnarowski, making him an unrestricted free agent.",
+      "url": "http://espn.go.com/nba/story/_/id/34169016/washington-wizards-star-bradley-beal-declines-364-million-player-option-agent-says",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0208%2Fr971867_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-06-29T20:31:37Z",
+      "content": "Bradley Beal has declined his $36.4 million player option for the 2022-23 NBA season, his agent Mark Bartelstein of Priority Sports told ESPN's Adrian Wojnarowski, making him an unrestricted free age… [+888 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "FOX Sports",
+      "title": "USFL Championship Game odds: Best bet for Stars vs. Stallions",
+      "description": "FOX Sports analyst Geoff Schwartz gives his pick for the USFL Championship game between the Philadelphia Stars and the Birmingham Stallions.",
+      "url": "http://www.foxsports.com/stories/usfl/usfl-championship-game-odds-best-bets-for-stars-vs-stallions",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/06/1408/814/06.27.22_USFLBestBet_Horizontal.jpg?ve=1&tl=1",
+      "publishedAt": "2022-06-28T20:28:47Z",
+      "content": "By Geoff Schwartz\r\nFOX Sports NFL Analyst\r\nBettors, it all comes down to this. After 10 competitive regular season weeks and an exciting weekend of semifinal games, we get one last USFL matchup to wa… [+4258 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "⭐ &#x27;The Champions&#x27; Season Finale ⭐",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/244201-the-champions-season-6-episode-3",
+      "urlToImage": null,
+      "publishedAt": "2022-06-15T17:37:27.3831502Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "Live Bradley Beal Interview ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/244886-taylor-rooks-x-bradley-beal",
+      "urlToImage": null,
+      "publishedAt": "2022-06-15T17:22:35.1827416Z",
+      "content": null
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Daily Briefing",
+      "description": "The day's top stories, from sports to movies to politics to world events.",
+      "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+      "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+      "publishedAt": "2021-08-15T15:35:07+00:00",
+      "content": "The day's top stories, from sports to movies to politics to world events."
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times http://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2021-02-10T03:52:37.2719772Z",
+      "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+    }
+  ]
+}
