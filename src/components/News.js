@@ -18,7 +18,7 @@ const News=(props)=>{
   
 
   const update=async ()=>{
-    let url=`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=6bb2f5b1301e402f9695a3cdc73eea76&page=${page}&pagesize=${props.pagesize}`
+    let url=`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.api}&page=${page}&pagesize=${props.pagesize}`
 
     // this.setState({loading:true})
     setloading(true)
@@ -63,8 +63,8 @@ const News=(props)=>{
   // }
 
  const fetchMoreData = async () => {
-
-    let url=`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=6bb2f5b1301e402f9695a3cdc73eea76&page=${page+1}&pagesize=${props.pagesize}`
+  // 6bb2f5b1301e402f9695a3cdc73eea76
+    let url=`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.api}&page=${page+1}&pagesize=${props.pagesize}`
     // this.setState({loading:true})
     setloading(true)
       let news=await fetch(url)
@@ -82,7 +82,7 @@ const News=(props)=>{
         {loading && <Spinner/>}
 
         <InfiniteScroll
-          dataLength={articles.length}
+          dataLength={articles? articles.length:0}
           next={fetchMoreData}
           hasMore={articles.length !== totalResults}
           loader={<Spinner/>}
